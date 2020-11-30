@@ -21,3 +21,34 @@ https://apolinar291076.github.io/Password-Generator/
 
 # The repo for the application could be accessed using the following link:
  https://github.com/Apolinar291076/Password-Generator.git
+ 
+ 
+ # Screenshots
+ 
+ with all criteria selected:
+ 
+ ![](img/all-criteria.PNG)
+ 
+ with alphanumeric selected:
+ 
+ ![](img/alpha-numeric.PNG)
+ 
+ with lower case only selected:
+ 
+ ![](img/lowercase-only.PNG)
+  
+ with number only selected:
+ 
+ ![](img/number-only.PNG)
+ 
+ with special character only selected:
+ 
+ ![](img/special-char-only.PNG)
+
+ with uppercase only selected:
+ 
+  ![](img/uppercase-only.PNG)
+  
+ 
+ 
+ 
