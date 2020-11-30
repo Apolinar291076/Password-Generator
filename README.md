@@ -14,3 +14,10 @@ All the function are integrated in the generatePassword to generate a string con
 # Data Validation
 
 Data Validation using while loops were included to prevent the user from entering a number less than 8 and greater than 128 for the number of characters. The same format was also used to prevent the user from selecting 'no criteria'. At least one criteria must be selected before the application would work.
+
+
+# The application could be accessed using the following link:
+https://apolinar291076.github.io/Password-Generator/
+
+# The repo for the application could be accessed using the following link:
+ https://github.com/Apolinar291076/Password-Generator.git
